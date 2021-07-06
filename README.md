@@ -10,7 +10,7 @@ MacCabe-Thiele folder consists of two notebooks,
     1. Saturated Feed - It only designs distillation column for saturated liquid feed and saturated vapour feed.
     2. General Feed - It designs distillation column for any general case of the binary distillation.
 
-    ![Gif of the General Feed Demo](media/General-feed-Demo.gif)
+![General feed demo gif](/assets/General-feed-Demo.gif)
 
 ## Dependencies
 
