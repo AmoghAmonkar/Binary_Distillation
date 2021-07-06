@@ -1,0 +1,3 @@
+#Directories to be ignores
+*.ipynb_checkpoints
+*.vscode
